@@ -12,3 +12,4 @@ Technologies Used:
 -Bootstrap
 -JavaScript
 -jQuery
+Published to GitHub Pages: https://afw821.github.io/jQuery-Calculator/
